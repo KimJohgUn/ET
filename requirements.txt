@@ -1,7 +1,7 @@
 streamlit
 easyocr
 PyMuPDF
-opencv-python
+opencv-python-headless
 python-docx
 pillow
 torch
