@@ -1,0 +1,7 @@
+streamlit
+easyocr
+PyMuPDF
+opencv-python
+python-docx
+pillow
+torch
